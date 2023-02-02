@@ -1,0 +1,11 @@
+{
+    "20c951a5-7dd5-4a18-93cd-1b67018b4d7a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Ships_Ahoy_Thumb.tex.nasset"
+    },
+    "33a57ba4-b246-4f69-a1d1-c137582fbf62": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin"
+    },
+    "guid": "635ca0e7-f548-6d75-9f79-9d37c9525fc7"
+}
